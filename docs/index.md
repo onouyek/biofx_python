@@ -1,6 +1,6 @@
 # Counting tetranucleotide frequency
 
-## [Rosalind Problem](http://rosalind.info/problems/dna/)
+## [Rosalind Problem](http://rosalind.info/problems/dna/){:target="_blank"}
 
 ## Python Playground
 
