@@ -1,8 +1,6 @@
 # Counting tetranucleotide frequency
 
-## Rosalind Problem
-
-<embed src="http://rosalind.info/problems/dna/" class="md-content__inner" style="width: 100%;height: 100vh; overflow:hidden;">
+## [Rosalind Problem](http://rosalind.info/problems/dna/)
 
 ## Python Playground
 
@@ -10,7 +8,7 @@
   <code data-type="pre-exercise-code">
   </code>
   <code data-type="sample-code">
-    dna = 'AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC'
+    s = 'AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC'
     # Write your code here 
 
   </code>
