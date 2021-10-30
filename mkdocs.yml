@@ -1,0 +1,6 @@
+site_name: ゼロから始めるゲノム解析（Python編） 
+theme:
+  name: material
+
+extra_javascript:
+  - javascripts/dcl-react.js.gz
