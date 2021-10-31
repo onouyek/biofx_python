@@ -7,3 +7,8 @@ extra_javascript:
 
 markdown_extensions:
   - attr_list
+
+extra:
+  analytics:
+    provider: google
+    property: G-K627RX9W90
