@@ -1,4 +1,4 @@
-# The Second Nucleic Acid
+# Transcribing DNA into RNA
 
 ## [Rosalind Problem](http://rosalind.info/problems/rna/){:target="_blank"}
 
