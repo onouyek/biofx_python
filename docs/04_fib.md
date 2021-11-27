@@ -2,10 +2,23 @@
 
 ## [Rosalind Problem](http://rosalind.info/problems/fib/){:target="_blank"}
 
+**Given**: 正の整数$n≤40$と$k≤5$
 
-**Given**: Positive integers n≤40 and k≤5.
+**Return**: 1ペアから始めて、各世代において繁殖年齢のペアのウサギが$k$ペアのウサギの子孫を残すとしたとき、$n$か月後に存在するウサギのペアの総数
 
-**Return**: The total number of rabbit pairs that will be present after n months, if we begin with 1 pair and in each generation, every pair of reproduction-age rabbits produces a litter of k rabbit pairs (instead of only 1 pair).
+???+ note
+    - 個体数は最初の月に生まれたばかりのウサギのペアが存在する時点からカウントする。
+    - ウサギは1ヶ月後に生殖年齢に達するとする。
+    - 生殖年齢のすべてのウサギは、生殖年齢の別のウサギと交尾する。
+    - 2匹のウサギが交尾してからちょうど1か月後に、オス1匹とメス1匹のウサギが生まれる。
+    - ウサギが死んだり、繁殖を停止したりすることは考慮しない。
+
+    このとき、1年間に何組のウサギが残るか。 上記の問題の答えとしては、1年後、ウサギの個体数は144ペアとなります。
+
+    どの月にも、前月に生きていたウサギと新しい子孫が含まれます。すなわち、任意の月における子孫の数が2か月前に生きていたウサギの数に等しくなります。
+
+    $F_n = F_{n-1} + F_{n-2}$ ($F_1 = F_2 = 1$)
+    という漸化式によって定義されるフィボナッチ数列を得ることになります。 
 
 ### Sample Dataset
 
