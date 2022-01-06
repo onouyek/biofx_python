@@ -1,6 +1,6 @@
 # Counting Point Mutations
 
-## [Rosalind Problem](http://rosalind.info/problems/hamm/){:target="_blank"}
+## [Rosalind Problem](https://rosalind.info/problems/hamm/){:target="_blank"}
 
 **Given**: Two DNA strings $s$ and $t$ of equal length (not exceeding 1 kbp).
 

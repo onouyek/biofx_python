@@ -1,6 +1,6 @@
 # Complementing a Strand of DNA
 
-## [Rosalind Problem](http://rosalind.info/problems/revc/){:target="_blank"}
+## [Rosalind Problem](https://rosalind.info/problems/revc/){:target="_blank"}
 
 **Given**: A DNA string s of length at most 1000 bp.
 

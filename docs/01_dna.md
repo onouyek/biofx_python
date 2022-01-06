@@ -1,6 +1,6 @@
 # Counting tetranucleotide frequency
 
-## [Rosalind Problem](http://rosalind.info/problems/dna/){:target="_blank"}
+## [Rosalind Problem](https://rosalind.info/problems/dna/){:target="_blank"}
 
 **Given**: A DNA string s of length at most 1000 nt.
 
