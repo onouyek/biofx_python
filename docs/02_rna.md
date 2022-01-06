@@ -4,7 +4,7 @@
 
 **Given**: A DNA string t of length at most 1000 nt.
 
-**Return**: The transcribed RNA string of t.
+**Return**: The transcribed RNA string of $t$.
 
 ### Sample Dataset
 
