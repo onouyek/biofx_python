@@ -1,6 +1,6 @@
-# Finding a Motif in DNA
+# Overlap Graphs
 
-## [Rosalind Problem](https://rosalind.info/problems/subs/){:target="_blank"}
+## [Rosalind Problem](https://rosalind.info/problems/grph/){:target="_blank"}
 
 **Given**: A collection of DNA strings in FASTA format having total length at most 10 kbp.
 
