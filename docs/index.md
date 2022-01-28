@@ -34,3 +34,7 @@
 ### [【第8回】ゼロから始めるゲノム解析](https://bioalgorithms.connpass.com/event/236560/)
 
 <script async class="speakerdeck-embed" data-id="21ca59b25ead4c9e90d380e0c6601e8a" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
+
+### [【第9回】ゼロから始めるゲノム解析](https://bioalgorithms.connpass.com/event/237334/)
+
+### [【第10回】ゼロから始めるゲノム解析](https://bioalgorithms.connpass.com/event/238023/)
