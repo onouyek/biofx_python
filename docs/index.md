@@ -30,6 +30,7 @@
 
 ### [【第7回】ゼロから始めるゲノム解析](https://bioalgorithms.connpass.com/event/235916/)
 
+<script async class="speakerdeck-embed" data-id="8ebbcf2677c04aefa5a4c280a4e276d5" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### [【第8回】ゼロから始めるゲノム解析](https://bioalgorithms.connpass.com/event/236560/)
 
@@ -37,4 +38,16 @@
 
 ### [【第9回】ゼロから始めるゲノム解析](https://bioalgorithms.connpass.com/event/237334/)
 
+<script async class="speakerdeck-embed" data-id="ae022a212ee544a880d3516c3faa4478" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
+
 ### [【第10回】ゼロから始めるゲノム解析](https://bioalgorithms.connpass.com/event/238023/)
+
+<script async class="speakerdeck-embed" data-id="8829fa02a57b4c3a8bec87d379315a5c" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
+
+### [【第11回】ゼロから始めるゲノム解析](https://bioalgorithms.connpass.com/event/239603/)
+
+<script async class="speakerdeck-embed" data-id="9403186ac8294239b98971e142d97d3f" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
+
+### [【第12回】ゼロから始めるゲノム解析](https://bioalgorithms.connpass.com/event/240335/)
+
+<script async class="speakerdeck-embed" data-id="1f91401d60044dc9950ba4056c71ad7c" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
