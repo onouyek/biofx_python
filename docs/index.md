@@ -57,3 +57,5 @@
 <script async class="speakerdeck-embed" data-id="9a7d7f4fe9b244b5af3ddeeecaae98ed" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### [【第14回】ゼロから始めるゲノム解析](https://bioalgorithms.connpass.com/event/241577/)
+
+<script async class="speakerdeck-embed" data-id="88e656eedcd54d45ac1042321cdcea67" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
